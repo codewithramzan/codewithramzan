@@ -2,14 +2,14 @@
 
 ### Full-Stack Developer | Computer Science Student | Future AI Engineer
 
-I'm a Computer Science student at the University of Technology Nowshera
-and a Full-Stack Developer focused on building practical, scalable,
-and user-friendly web applications.
+I'm a Computer Science student at the **University of Technology Nowshera** and a Full-Stack Developer focused on building practical, real-world web applications.
 
-💻 Currently building real-world full-stack projects
-🚀 Exploring modern JavaScript and backend engineering
-🧠 Strengthening DSA, system design, and software engineering fundamentals
-🤖 Working toward becoming an AI Engineer
+- 🎓 BSc Computer Science
+- 💻 Full-Stack Web Developer
+- 🚀 Building real-world projects
+- 🧠 Currently strengthening DSA & backend engineering
+- 🤖 Working toward becoming an AI Engineer
+- 📍 Pakistan
 
 ---
 
@@ -27,32 +27,31 @@ MySQL
 ### Programming
 C++ • JavaScript • PHP
 
-### Tools
+### Tools & Platforms
 Git • GitHub • VS Code • Netlify
 
 ---
 
 ## 🚀 Featured Project
 
-### MR Tailor — Tailor Management System
+### 🧵 MR Tailor — Tailor Management System
 
-A complete management system designed for tailoring businesses.
+A full-stack management system designed for tailoring businesses.
 
-Features include:
+The system focuses on managing customers, bookings, measurements, garments, stitching options, and orders through a centralized management platform.
 
-- Customer management
-- Booking management
-- Measurement management
-- Garment type management
-- Stitching options
-- Order tracking
-- Measurement receipts
-- Admin dashboard
-- Database-driven garment and measurement configuration
+**Key Features**
 
-Built with:
+- 👤 Customer Management
+- 📋 Booking & Order Management
+- 📏 Measurement Management
+- 👕 Dynamic Garment Types
+- 🧵 Stitching Options
+- 📊 Admin Dashboard
+- 🧾 Printable Measurement Receipts
+- 🗄️ Database-driven Management
 
-PHP • MySQL • MVC • JavaScript • Bootstrap
+**Tech:** PHP • MySQL • MVC • JavaScript • Bootstrap
 
 ---
 
@@ -63,31 +62,41 @@ PHP • MySQL • MVC • JavaScript • Bootstrap
 - React.js
 - Node.js & Express
 - Backend Engineering
+- REST APIs
 - System Design
 - AI / Machine Learning
 
 ---
 
-## 🎯 Career Goal
+## 🎯 My Goal
 
-My long-term goal is to become a strong Software Engineer
-and specialize in Artificial Intelligence.
+My long-term goal is to become a strong **Software Engineer** and specialize in **Artificial Intelligence**.
 
-I believe in learning by building real-world projects.
-
----
-
-## 📊 GitHub Stats
-
-[Open to work]
+I believe in learning by building real-world projects, solving problems, and continuously improving my engineering skills.
 
 ---
 
-## 🤝 Let's Connect
+## 📈 My Development Journey
 
-If you're interested in web development, software engineering,
-or building something together, feel free to connect with me.
-
-🌐 mr-advance-portfolio.netlify.app
-💼 linkedin.com/in/codewithramzan
-📧 ramzankhan.dev26@gmail.com
+```text
+C++ / OOP
+     ↓
+HTML / CSS / Bootstrap
+     ↓
+JavaScript
+     ↓
+PHP / MySQL
+     ↓
+MVC Architecture
+     ↓
+Laravel
+     ↓
+React.js
+     ↓
+Node.js / Express
+     ↓
+Backend Engineering
+     ↓
+DSA & System Design
+     ↓
+AI / Machine Learning

@@ -79,7 +79,7 @@ I believe in learning by building real-world projects.
 
 ## 📊 GitHub Stats
 
-[GitHub Stats]
+[Open to work]
 
 ---
 

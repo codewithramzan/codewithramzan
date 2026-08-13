@@ -101,6 +101,8 @@ DSA & System Design
      ↓
 AI / Machine Learning
 
+```
+---
 🤝 Let's Connect
 🌐 Portfolio: [Coming Soon]
 💼 LinkedIn: [Coming Soon]
